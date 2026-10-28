@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/39lt398y7gicc.css","style"]
+:HL["/_next/static/chunks/1-5ob3o-kstnv.css","style"]
 :HL["/_next/static/media/4a0b7dd978568ff2-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -15,8 +15,5 @@
 :HL["/img/mood-camara.webp","image"]
 :HL["/img/mood-direccion.webp","image"]
 :HL["/img/mood-collage.webp","image"]
-:HL["/img/marca-vanessa.webp","image"]
-:HL["/img/marca-dentino.webp","image"]
-:HL["/img/marca-decora.webp","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"JY_sR0RgCNvZWnA43HwfO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"N7SgED4QmZ5QYc_YWtal1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
